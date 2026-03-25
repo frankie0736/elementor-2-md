@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+*.zip
+
+# Test / sample data
+test-output/
+elementor-export-*/
+
+# IDE
+.idea/
+.vscode/
+*.swp
